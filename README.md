@@ -56,6 +56,18 @@ Southern Hemisphere
 
 ![image](https://github.com/eferna1/python-api-challenge/assets/145945547/46919c71-c3aa-4147-a66d-9bad77d6931c)
 
+VacationPy
+
+### Step 1: Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
+
+![image](https://github.com/eferna1/python-api-challenge/assets/145945547/2e557c32-7a4e-4b4e-8f1c-b735a0106d5f)
+
+### Step 5: Add the hotel name and the country as additional information in the hover message for each city in the map.
+
+![image](https://github.com/eferna1/python-api-challenge/assets/145945547/9bc56dc6-191e-48bb-b43d-28261dd07f5e)
+
+
+
 
 
 
